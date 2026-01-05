@@ -86,10 +86,7 @@ $dbName = getenv('DB_NAME');
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="index.html">
-                                <img src="img/logo.png" alt="">
-                                <img src="img/logo-2.png" alt="">
-                            </a>
+                          
                         </div>
                     </div>
 
@@ -194,7 +191,7 @@ $dbName = getenv('DB_NAME');
 
 
                 <div class="copy_right_area">
-                    <h4 class="copy_right">© Copyright 2019 Kodekloud Ecommerce | All Rights Reserved</h4>
+                    <h4 class="copy_right">© This is just for educational purpose</h4>
                 </div>
             </div>
         </footer>
