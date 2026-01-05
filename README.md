@@ -43,6 +43,7 @@ sudo chmod +x script.sh
 ```
 sudo ./script.sh
 ```
+
 The script will automatically:
 
  - Install firewall and open ports 80 (HTTP) and 3306 (MariaDB)
@@ -53,7 +54,7 @@ The script will automatically:
  - Create the .env file
  - Set proper file permissions
  - Restart Apache
-
+![](diagrams/script-running.png)
 ---
 4. **Access the Application**
 
@@ -69,3 +70,5 @@ http://<your-ec2-public-ip>/
 - On multi-node setups, update the `.env` file with the database server IP instead of `localhost`.
 
 **Deployment is complete! Your e-commerce application is ready to use.**
+
+![](diagrams/website.png)
