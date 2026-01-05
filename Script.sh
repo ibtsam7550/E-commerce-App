@@ -85,7 +85,7 @@ sudo mysql < db-load-script.sql
 #---------------------------------------------
 echo "=== Cloning e-commerce application ==="
 sudo rm -rf /var/www/html/*
-sudo git clone https://github.com/kodekloudhub/learning-app-ecommerce.git /var/www/html/
+sudo git clone https://github.com/ibtsam7550/E-commerce-App.git /var/www/html/
 
 #---------------------------------------------
 # Create .env file
