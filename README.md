@@ -41,7 +41,7 @@ sudo chmod +x script.sh
 3. **Run the Deployment Script**
 
 ```
-sudo ./deploy-ecommerce.sh
+sudo ./script.sh
 ```
 The script will automatically:
 
