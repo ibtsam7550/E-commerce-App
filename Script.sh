@@ -1,7 +1,6 @@
 #!/bin/bash
 #
-# Automate ECommerce Application Deployment
-# Author: Mumshad Mannambeth
+# Automate E-commerce Application Deployment
 
 #######################################
 # Print a message in a given color.
